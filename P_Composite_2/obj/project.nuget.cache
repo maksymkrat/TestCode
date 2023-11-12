@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "1+ppM+b3GVNPfEBBBG2WwRz+ji9+CslC4t9ysiDS/+ZOoeZbGo86/tHJjAMJY/1TjqgzvSU93dZFzgl/HFqblA==",
+  "success": true,
+  "projectFilePath": "D:\\C\\Projects\\TestCode\\P_Composite_2\\P_Composite_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.mint-innovations.com/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

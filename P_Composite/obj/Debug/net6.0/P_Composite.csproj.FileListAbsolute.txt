@@ -1,0 +1,14 @@
+D:\C\Projects\TestCode\P_Composite\bin\Debug\net6.0\P_Composite.exe
+D:\C\Projects\TestCode\P_Composite\bin\Debug\net6.0\P_Composite.deps.json
+D:\C\Projects\TestCode\P_Composite\bin\Debug\net6.0\P_Composite.runtimeconfig.json
+D:\C\Projects\TestCode\P_Composite\bin\Debug\net6.0\P_Composite.dll
+D:\C\Projects\TestCode\P_Composite\bin\Debug\net6.0\P_Composite.pdb
+D:\C\Projects\TestCode\P_Composite\obj\Debug\net6.0\P_Composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\P_Composite\obj\Debug\net6.0\P_Composite.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\P_Composite\obj\Debug\net6.0\P_Composite.AssemblyInfo.cs
+D:\C\Projects\TestCode\P_Composite\obj\Debug\net6.0\P_Composite.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\P_Composite\obj\Debug\net6.0\P_Composite.dll
+D:\C\Projects\TestCode\P_Composite\obj\Debug\net6.0\ref\P_Composite.dll
+D:\C\Projects\TestCode\P_Composite\obj\Debug\net6.0\P_Composite.pdb
+D:\C\Projects\TestCode\P_Composite\obj\Debug\net6.0\P_Composite.genruntimeconfig.cache
+D:\C\Projects\TestCode\P_Composite\obj\Debug\net6.0\refint\P_Composite.dll

@@ -1,0 +1,13 @@
+D:\C\Projects\TestCode\P_Facade\bin\Debug\netcoreapp3.1\P_Facade.exe
+D:\C\Projects\TestCode\P_Facade\bin\Debug\netcoreapp3.1\P_Facade.deps.json
+D:\C\Projects\TestCode\P_Facade\bin\Debug\netcoreapp3.1\P_Facade.runtimeconfig.json
+D:\C\Projects\TestCode\P_Facade\bin\Debug\netcoreapp3.1\P_Facade.runtimeconfig.dev.json
+D:\C\Projects\TestCode\P_Facade\bin\Debug\netcoreapp3.1\P_Facade.dll
+D:\C\Projects\TestCode\P_Facade\bin\Debug\netcoreapp3.1\P_Facade.pdb
+D:\C\Projects\TestCode\P_Facade\obj\Debug\netcoreapp3.1\P_Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\P_Facade\obj\Debug\netcoreapp3.1\P_Facade.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\P_Facade\obj\Debug\netcoreapp3.1\P_Facade.AssemblyInfo.cs
+D:\C\Projects\TestCode\P_Facade\obj\Debug\netcoreapp3.1\P_Facade.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\P_Facade\obj\Debug\netcoreapp3.1\P_Facade.dll
+D:\C\Projects\TestCode\P_Facade\obj\Debug\netcoreapp3.1\P_Facade.pdb
+D:\C\Projects\TestCode\P_Facade\obj\Debug\netcoreapp3.1\P_Facade.genruntimeconfig.cache

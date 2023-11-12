@@ -1,0 +1,14 @@
+D:\C\Projects\TestCode\P_Decorator\bin\Debug\net6.0\P_Decorator.exe
+D:\C\Projects\TestCode\P_Decorator\bin\Debug\net6.0\P_Decorator.deps.json
+D:\C\Projects\TestCode\P_Decorator\bin\Debug\net6.0\P_Decorator.runtimeconfig.json
+D:\C\Projects\TestCode\P_Decorator\bin\Debug\net6.0\P_Decorator.dll
+D:\C\Projects\TestCode\P_Decorator\bin\Debug\net6.0\P_Decorator.pdb
+D:\C\Projects\TestCode\P_Decorator\obj\Debug\net6.0\P_Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\P_Decorator\obj\Debug\net6.0\P_Decorator.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\P_Decorator\obj\Debug\net6.0\P_Decorator.AssemblyInfo.cs
+D:\C\Projects\TestCode\P_Decorator\obj\Debug\net6.0\P_Decorator.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\P_Decorator\obj\Debug\net6.0\P_Decorator.dll
+D:\C\Projects\TestCode\P_Decorator\obj\Debug\net6.0\refint\P_Decorator.dll
+D:\C\Projects\TestCode\P_Decorator\obj\Debug\net6.0\P_Decorator.pdb
+D:\C\Projects\TestCode\P_Decorator\obj\Debug\net6.0\P_Decorator.genruntimeconfig.cache
+D:\C\Projects\TestCode\P_Decorator\obj\Debug\net6.0\ref\P_Decorator.dll
