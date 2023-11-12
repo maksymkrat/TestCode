@@ -1,0 +1,13 @@
+D:\C\Projects\TestCode\P_State\bin\Debug\netcoreapp3.1\P_State.exe
+D:\C\Projects\TestCode\P_State\bin\Debug\netcoreapp3.1\P_State.deps.json
+D:\C\Projects\TestCode\P_State\bin\Debug\netcoreapp3.1\P_State.runtimeconfig.json
+D:\C\Projects\TestCode\P_State\bin\Debug\netcoreapp3.1\P_State.runtimeconfig.dev.json
+D:\C\Projects\TestCode\P_State\bin\Debug\netcoreapp3.1\P_State.dll
+D:\C\Projects\TestCode\P_State\bin\Debug\netcoreapp3.1\P_State.pdb
+D:\C\Projects\TestCode\P_State\obj\Debug\netcoreapp3.1\P_State.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\P_State\obj\Debug\netcoreapp3.1\P_State.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\P_State\obj\Debug\netcoreapp3.1\P_State.AssemblyInfo.cs
+D:\C\Projects\TestCode\P_State\obj\Debug\netcoreapp3.1\P_State.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\P_State\obj\Debug\netcoreapp3.1\P_State.dll
+D:\C\Projects\TestCode\P_State\obj\Debug\netcoreapp3.1\P_State.pdb
+D:\C\Projects\TestCode\P_State\obj\Debug\netcoreapp3.1\P_State.genruntimeconfig.cache

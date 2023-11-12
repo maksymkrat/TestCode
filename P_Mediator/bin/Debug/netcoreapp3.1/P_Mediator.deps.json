@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P_Mediator/1.0.0": {
+        "runtime": {
+          "P_Mediator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P_Mediator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

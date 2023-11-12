@@ -1,0 +1,13 @@
+D:\C\Projects\TestCode\P_Observer\bin\Debug\netcoreapp3.1\P_Observer.exe
+D:\C\Projects\TestCode\P_Observer\bin\Debug\netcoreapp3.1\P_Observer.deps.json
+D:\C\Projects\TestCode\P_Observer\bin\Debug\netcoreapp3.1\P_Observer.runtimeconfig.json
+D:\C\Projects\TestCode\P_Observer\bin\Debug\netcoreapp3.1\P_Observer.runtimeconfig.dev.json
+D:\C\Projects\TestCode\P_Observer\bin\Debug\netcoreapp3.1\P_Observer.dll
+D:\C\Projects\TestCode\P_Observer\bin\Debug\netcoreapp3.1\P_Observer.pdb
+D:\C\Projects\TestCode\P_Observer\obj\Debug\netcoreapp3.1\P_Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\P_Observer\obj\Debug\netcoreapp3.1\P_Observer.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\P_Observer\obj\Debug\netcoreapp3.1\P_Observer.AssemblyInfo.cs
+D:\C\Projects\TestCode\P_Observer\obj\Debug\netcoreapp3.1\P_Observer.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\P_Observer\obj\Debug\netcoreapp3.1\P_Observer.dll
+D:\C\Projects\TestCode\P_Observer\obj\Debug\netcoreapp3.1\P_Observer.pdb
+D:\C\Projects\TestCode\P_Observer\obj\Debug\netcoreapp3.1\P_Observer.genruntimeconfig.cache

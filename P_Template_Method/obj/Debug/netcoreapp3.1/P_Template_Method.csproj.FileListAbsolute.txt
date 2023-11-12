@@ -1,0 +1,13 @@
+D:\C\Projects\TestCode\P_Template_Method\bin\Debug\netcoreapp3.1\P_Template_Method.exe
+D:\C\Projects\TestCode\P_Template_Method\bin\Debug\netcoreapp3.1\P_Template_Method.deps.json
+D:\C\Projects\TestCode\P_Template_Method\bin\Debug\netcoreapp3.1\P_Template_Method.runtimeconfig.json
+D:\C\Projects\TestCode\P_Template_Method\bin\Debug\netcoreapp3.1\P_Template_Method.runtimeconfig.dev.json
+D:\C\Projects\TestCode\P_Template_Method\bin\Debug\netcoreapp3.1\P_Template_Method.dll
+D:\C\Projects\TestCode\P_Template_Method\bin\Debug\netcoreapp3.1\P_Template_Method.pdb
+D:\C\Projects\TestCode\P_Template_Method\obj\Debug\netcoreapp3.1\P_Template_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\P_Template_Method\obj\Debug\netcoreapp3.1\P_Template_Method.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\P_Template_Method\obj\Debug\netcoreapp3.1\P_Template_Method.AssemblyInfo.cs
+D:\C\Projects\TestCode\P_Template_Method\obj\Debug\netcoreapp3.1\P_Template_Method.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\P_Template_Method\obj\Debug\netcoreapp3.1\P_Template_Method.dll
+D:\C\Projects\TestCode\P_Template_Method\obj\Debug\netcoreapp3.1\P_Template_Method.pdb
+D:\C\Projects\TestCode\P_Template_Method\obj\Debug\netcoreapp3.1\P_Template_Method.genruntimeconfig.cache

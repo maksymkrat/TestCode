@@ -1,0 +1,13 @@
+D:\C\Projects\TestCode\P_Momento\bin\Debug\netcoreapp3.1\P_Momento.exe
+D:\C\Projects\TestCode\P_Momento\bin\Debug\netcoreapp3.1\P_Momento.deps.json
+D:\C\Projects\TestCode\P_Momento\bin\Debug\netcoreapp3.1\P_Momento.runtimeconfig.json
+D:\C\Projects\TestCode\P_Momento\bin\Debug\netcoreapp3.1\P_Momento.runtimeconfig.dev.json
+D:\C\Projects\TestCode\P_Momento\bin\Debug\netcoreapp3.1\P_Momento.dll
+D:\C\Projects\TestCode\P_Momento\bin\Debug\netcoreapp3.1\P_Momento.pdb
+D:\C\Projects\TestCode\P_Momento\obj\Debug\netcoreapp3.1\P_Momento.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\P_Momento\obj\Debug\netcoreapp3.1\P_Momento.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\P_Momento\obj\Debug\netcoreapp3.1\P_Momento.AssemblyInfo.cs
+D:\C\Projects\TestCode\P_Momento\obj\Debug\netcoreapp3.1\P_Momento.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\P_Momento\obj\Debug\netcoreapp3.1\P_Momento.dll
+D:\C\Projects\TestCode\P_Momento\obj\Debug\netcoreapp3.1\P_Momento.pdb
+D:\C\Projects\TestCode\P_Momento\obj\Debug\netcoreapp3.1\P_Momento.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C\Projects\TestCode\P_Mediator\bin\Debug\netcoreapp3.1\P_Mediator.exe
+D:\C\Projects\TestCode\P_Mediator\bin\Debug\netcoreapp3.1\P_Mediator.deps.json
+D:\C\Projects\TestCode\P_Mediator\bin\Debug\netcoreapp3.1\P_Mediator.runtimeconfig.json
+D:\C\Projects\TestCode\P_Mediator\bin\Debug\netcoreapp3.1\P_Mediator.runtimeconfig.dev.json
+D:\C\Projects\TestCode\P_Mediator\bin\Debug\netcoreapp3.1\P_Mediator.dll
+D:\C\Projects\TestCode\P_Mediator\bin\Debug\netcoreapp3.1\P_Mediator.pdb
+D:\C\Projects\TestCode\P_Mediator\obj\Debug\netcoreapp3.1\P_Mediator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\P_Mediator\obj\Debug\netcoreapp3.1\P_Mediator.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\P_Mediator\obj\Debug\netcoreapp3.1\P_Mediator.AssemblyInfo.cs
+D:\C\Projects\TestCode\P_Mediator\obj\Debug\netcoreapp3.1\P_Mediator.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\P_Mediator\obj\Debug\netcoreapp3.1\P_Mediator.dll
+D:\C\Projects\TestCode\P_Mediator\obj\Debug\netcoreapp3.1\P_Mediator.pdb
+D:\C\Projects\TestCode\P_Mediator\obj\Debug\netcoreapp3.1\P_Mediator.genruntimeconfig.cache
