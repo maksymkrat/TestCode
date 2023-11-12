@@ -1,0 +1,17 @@
+{
+  "auth": {
+    "key": "CQqJqZ4m6MnDYH18DK06ds5rqRtXptde"
+  },
+  "action": "SENDMESSAGE",
+  "data": {
+    "recipient": "380967745450",
+    "channels": [
+      "sms"
+    ],
+    "sms": {
+      "source": "InfoCentr",
+      "ttl": 30,
+      "text": "шо ти чорт?."
+    }
+  }
+}

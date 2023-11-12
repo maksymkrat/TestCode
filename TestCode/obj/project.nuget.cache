@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "jzlD6f/IXuYowpA+ONZeyTns2Z1I2chjj7wb8ZLdxIh4Ha7IY2KGQ+4C+EGjR5Idg8yFtBFF+xRFrkyt/7Kf2g==",
+  "success": true,
+  "projectFilePath": "D:\\C\\Projects\\TestCode\\TestCode\\TestCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\speechlib.models\\1.6.0\\speechlib.models.1.6.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\speechlib.synthesis\\1.6.0\\speechlib.synthesis.1.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.mint-innovations.com/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SpeechLib.Models 1.6.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SpeechLib.Models",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SpeechLib.Synthesis 1.6.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SpeechLib.Synthesis",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\C\Projects\TestCode\TestTemplates\bin\Debug\net7.0\TestTemplates.exe
+D:\C\Projects\TestCode\TestTemplates\bin\Debug\net7.0\TestTemplates.deps.json
+D:\C\Projects\TestCode\TestTemplates\bin\Debug\net7.0\TestTemplates.runtimeconfig.json
+D:\C\Projects\TestCode\TestTemplates\bin\Debug\net7.0\TestTemplates.dll
+D:\C\Projects\TestCode\TestTemplates\bin\Debug\net7.0\TestTemplates.pdb
+D:\C\Projects\TestCode\TestTemplates\obj\Debug\net7.0\TestTemplates.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\TestTemplates\obj\Debug\net7.0\TestTemplates.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\TestTemplates\obj\Debug\net7.0\TestTemplates.AssemblyInfo.cs
+D:\C\Projects\TestCode\TestTemplates\obj\Debug\net7.0\TestTemplates.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\TestTemplates\obj\Debug\net7.0\TestTemplates.dll
+D:\C\Projects\TestCode\TestTemplates\obj\Debug\net7.0\refint\TestTemplates.dll
+D:\C\Projects\TestCode\TestTemplates\obj\Debug\net7.0\TestTemplates.pdb
+D:\C\Projects\TestCode\TestTemplates\obj\Debug\net7.0\TestTemplates.genruntimeconfig.cache
+D:\C\Projects\TestCode\TestTemplates\obj\Debug\net7.0\ref\TestTemplates.dll

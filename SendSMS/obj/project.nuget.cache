@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "/J4Qje1bdNs94pkTY6i+77WWREzIKrhqr81867WlLCJdNk/yS7DAJtGQ7QAjWQwa2/qzRvusbjHllnXEUAwLHA==",
+  "success": true,
+  "projectFilePath": "D:\\C\\Projects\\TestCode\\SendSMS\\SendSMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.mint-innovations.com/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

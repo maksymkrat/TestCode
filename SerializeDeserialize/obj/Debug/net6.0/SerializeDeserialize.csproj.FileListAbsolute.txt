@@ -1,0 +1,17 @@
+D:\C\Projects\TestCode\SerializeDeserialize\bin\Debug\net6.0\SerializeDeserialize.exe
+D:\C\Projects\TestCode\SerializeDeserialize\bin\Debug\net6.0\SerializeDeserialize.deps.json
+D:\C\Projects\TestCode\SerializeDeserialize\bin\Debug\net6.0\SerializeDeserialize.runtimeconfig.json
+D:\C\Projects\TestCode\SerializeDeserialize\bin\Debug\net6.0\SerializeDeserialize.dll
+D:\C\Projects\TestCode\SerializeDeserialize\bin\Debug\net6.0\SerializeDeserialize.pdb
+D:\C\Projects\TestCode\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.csproj.AssemblyReference.cache
+D:\C\Projects\TestCode\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.AssemblyInfo.cs
+D:\C\Projects\TestCode\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.dll
+D:\C\Projects\TestCode\SerializeDeserialize\obj\Debug\net6.0\ref\SerializeDeserialize.dll
+D:\C\Projects\TestCode\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.pdb
+D:\C\Projects\TestCode\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.genruntimeconfig.cache
+D:\C\Projects\TestCode\SerializeDeserialize\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\C\Projects\TestCode\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.csproj.CopyComplete
+D:\C\Projects\TestCode\SerializeDeserialize\obj\Debug\net6.0\refint\SerializeDeserialize.dll
