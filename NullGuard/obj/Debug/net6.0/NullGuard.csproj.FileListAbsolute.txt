@@ -1,0 +1,14 @@
+D:\C\Projects\TestCode\NullGuard\bin\Debug\net6.0\NullGuard.exe
+D:\C\Projects\TestCode\NullGuard\bin\Debug\net6.0\NullGuard.deps.json
+D:\C\Projects\TestCode\NullGuard\bin\Debug\net6.0\NullGuard.runtimeconfig.json
+D:\C\Projects\TestCode\NullGuard\bin\Debug\net6.0\NullGuard.dll
+D:\C\Projects\TestCode\NullGuard\bin\Debug\net6.0\NullGuard.pdb
+D:\C\Projects\TestCode\NullGuard\obj\Debug\net6.0\NullGuard.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\NullGuard\obj\Debug\net6.0\NullGuard.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\NullGuard\obj\Debug\net6.0\NullGuard.AssemblyInfo.cs
+D:\C\Projects\TestCode\NullGuard\obj\Debug\net6.0\NullGuard.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\NullGuard\obj\Debug\net6.0\NullGuard.dll
+D:\C\Projects\TestCode\NullGuard\obj\Debug\net6.0\refint\NullGuard.dll
+D:\C\Projects\TestCode\NullGuard\obj\Debug\net6.0\NullGuard.pdb
+D:\C\Projects\TestCode\NullGuard\obj\Debug\net6.0\NullGuard.genruntimeconfig.cache
+D:\C\Projects\TestCode\NullGuard\obj\Debug\net6.0\ref\NullGuard.dll

@@ -1,0 +1,16 @@
+D:\c#\Projects\TestCode\Delegat\bin\Debug\Delegat.exe
+D:\c#\Projects\TestCode\Delegat\bin\Debug\Delegat.pdb
+D:\c#\Projects\TestCode\Delegat\obj\Debug\Delegat.csproj.AssemblyReference.cache
+D:\c#\Projects\TestCode\Delegat\obj\Debug\Delegat.csproj.SuggestedBindingRedirects.cache
+D:\c#\Projects\TestCode\Delegat\obj\Debug\Delegat.csproj.CoreCompileInputs.cache
+D:\c#\Projects\TestCode\Delegat\obj\Debug\Delegat.exe
+D:\c#\Projects\TestCode\Delegat\obj\Debug\Delegat.pdb
+D:\C\Projects\TestCode\Delegat\bin\Debug\Delegat.exe
+D:\C\Projects\TestCode\Delegat\bin\Debug\Delegat.pdb
+D:\C\Projects\TestCode\Delegat\bin\Debug\Newtonsoft.Json.dll
+D:\C\Projects\TestCode\Delegat\bin\Debug\Newtonsoft.Json.xml
+D:\C\Projects\TestCode\Delegat\obj\Debug\Delegat.csproj.AssemblyReference.cache
+D:\C\Projects\TestCode\Delegat\obj\Debug\Delegat.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\Delegat\obj\Debug\Delegat.csproj.CopyComplete
+D:\C\Projects\TestCode\Delegat\obj\Debug\Delegat.exe
+D:\C\Projects\TestCode\Delegat\obj\Debug\Delegat.pdb

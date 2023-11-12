@@ -1,0 +1,17 @@
+D:\C\Projects\TestCode\AudioVolumeService\bin\Debug\net6.0\AudioVolumeService.exe
+D:\C\Projects\TestCode\AudioVolumeService\bin\Debug\net6.0\AudioVolumeService.deps.json
+D:\C\Projects\TestCode\AudioVolumeService\bin\Debug\net6.0\AudioVolumeService.runtimeconfig.json
+D:\C\Projects\TestCode\AudioVolumeService\bin\Debug\net6.0\AudioVolumeService.dll
+D:\C\Projects\TestCode\AudioVolumeService\bin\Debug\net6.0\AudioVolumeService.pdb
+D:\C\Projects\TestCode\AudioVolumeService\bin\Debug\net6.0\AudioSwitcher.AudioApi.CoreAudio.dll
+D:\C\Projects\TestCode\AudioVolumeService\obj\Debug\net6.0\AudioVolumeService.csproj.AssemblyReference.cache
+D:\C\Projects\TestCode\AudioVolumeService\obj\Debug\net6.0\AudioVolumeService.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\AudioVolumeService\obj\Debug\net6.0\AudioVolumeService.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\AudioVolumeService\obj\Debug\net6.0\AudioVolumeService.AssemblyInfo.cs
+D:\C\Projects\TestCode\AudioVolumeService\obj\Debug\net6.0\AudioVolumeService.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\AudioVolumeService\obj\Debug\net6.0\AudioVolumeService.csproj.CopyComplete
+D:\C\Projects\TestCode\AudioVolumeService\obj\Debug\net6.0\AudioVolumeService.dll
+D:\C\Projects\TestCode\AudioVolumeService\obj\Debug\net6.0\ref\AudioVolumeService.dll
+D:\C\Projects\TestCode\AudioVolumeService\obj\Debug\net6.0\AudioVolumeService.pdb
+D:\C\Projects\TestCode\AudioVolumeService\obj\Debug\net6.0\AudioVolumeService.genruntimeconfig.cache
+D:\C\Projects\TestCode\AudioVolumeService\obj\Debug\net6.0\refint\AudioVolumeService.dll
