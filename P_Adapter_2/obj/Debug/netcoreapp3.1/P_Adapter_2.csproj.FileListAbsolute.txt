@@ -1,0 +1,13 @@
+D:\C\Projects\TestCode\P_Adapter_2\bin\Debug\netcoreapp3.1\P_Adapter_2.exe
+D:\C\Projects\TestCode\P_Adapter_2\bin\Debug\netcoreapp3.1\P_Adapter_2.deps.json
+D:\C\Projects\TestCode\P_Adapter_2\bin\Debug\netcoreapp3.1\P_Adapter_2.runtimeconfig.json
+D:\C\Projects\TestCode\P_Adapter_2\bin\Debug\netcoreapp3.1\P_Adapter_2.runtimeconfig.dev.json
+D:\C\Projects\TestCode\P_Adapter_2\bin\Debug\netcoreapp3.1\P_Adapter_2.dll
+D:\C\Projects\TestCode\P_Adapter_2\bin\Debug\netcoreapp3.1\P_Adapter_2.pdb
+D:\C\Projects\TestCode\P_Adapter_2\obj\Debug\netcoreapp3.1\P_Adapter_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\P_Adapter_2\obj\Debug\netcoreapp3.1\P_Adapter_2.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\P_Adapter_2\obj\Debug\netcoreapp3.1\P_Adapter_2.AssemblyInfo.cs
+D:\C\Projects\TestCode\P_Adapter_2\obj\Debug\netcoreapp3.1\P_Adapter_2.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\P_Adapter_2\obj\Debug\netcoreapp3.1\P_Adapter_2.dll
+D:\C\Projects\TestCode\P_Adapter_2\obj\Debug\netcoreapp3.1\P_Adapter_2.pdb
+D:\C\Projects\TestCode\P_Adapter_2\obj\Debug\netcoreapp3.1\P_Adapter_2.genruntimeconfig.cache

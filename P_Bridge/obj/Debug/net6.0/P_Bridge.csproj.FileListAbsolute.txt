@@ -1,0 +1,14 @@
+D:\C\Projects\TestCode\P_Bridge\bin\Debug\net6.0\P_Bridge.exe
+D:\C\Projects\TestCode\P_Bridge\bin\Debug\net6.0\P_Bridge.deps.json
+D:\C\Projects\TestCode\P_Bridge\bin\Debug\net6.0\P_Bridge.runtimeconfig.json
+D:\C\Projects\TestCode\P_Bridge\bin\Debug\net6.0\P_Bridge.dll
+D:\C\Projects\TestCode\P_Bridge\bin\Debug\net6.0\P_Bridge.pdb
+D:\C\Projects\TestCode\P_Bridge\obj\Debug\net6.0\P_Bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TestCode\P_Bridge\obj\Debug\net6.0\P_Bridge.AssemblyInfoInputs.cache
+D:\C\Projects\TestCode\P_Bridge\obj\Debug\net6.0\P_Bridge.AssemblyInfo.cs
+D:\C\Projects\TestCode\P_Bridge\obj\Debug\net6.0\P_Bridge.csproj.CoreCompileInputs.cache
+D:\C\Projects\TestCode\P_Bridge\obj\Debug\net6.0\P_Bridge.dll
+D:\C\Projects\TestCode\P_Bridge\obj\Debug\net6.0\ref\P_Bridge.dll
+D:\C\Projects\TestCode\P_Bridge\obj\Debug\net6.0\P_Bridge.pdb
+D:\C\Projects\TestCode\P_Bridge\obj\Debug\net6.0\P_Bridge.genruntimeconfig.cache
+D:\C\Projects\TestCode\P_Bridge\obj\Debug\net6.0\refint\P_Bridge.dll

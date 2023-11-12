@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "H31YlRgcx1w4mmmj6WOFncdcDktiXKQ4EWnlrAPjJI6muaeAwsNKZgs8ujOdJhs5YCF76Phfj7fjg2tVF4Jnpw==",
+  "success": true,
+  "projectFilePath": "D:\\C\\Projects\\TestCode\\P_Adapterr\\P_Adapterr.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.mint-innovations.com/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
